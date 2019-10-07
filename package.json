@@ -1,0 +1,17 @@
+{
+  "name": "autho",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main-init-core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
